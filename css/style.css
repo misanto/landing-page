@@ -24,3 +24,23 @@ color: #0A1760;
 
 
 }
+
+.button{
+    box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 24px 57px 24px 40px;
+gap: 10px;
+
+position: absolute;
+left: 9.58%;
+right: 75.76%;
+top: 64.94%;
+bottom: 28.61%;
+
+border: 1px solid #000000;
+border-radius: 40px;
+}
