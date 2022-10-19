@@ -76,7 +76,7 @@ border-radius: 40px;
 
 
 
-.rectangle{
+.figure{
     box-sizing: border-box;
 
 position: absolute;
@@ -87,4 +87,14 @@ top: 38px;
 
 border: 0.5px solid #000000;
 border-radius: 20px;
+}
+
+.img{
+    position: absolute;
+width: 768px;
+height: 557px;
+left: 624px;
+top: 397px;
+
+background: url(pexels-goochie-poochie-grooming-3299905-removebg-preview (1).png);
 }
