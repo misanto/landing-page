@@ -4,6 +4,18 @@ width: 265px;
 height: 166px;
 left: 138px;
 top: 296px;
+
+font-family: 'Rammetto One';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 105.9%;
+
+/* or 85px */
+
+color: #000000;
+
+border: 0.5px solid #3A59FF;
 }
 
 .lorem-ipsum{
