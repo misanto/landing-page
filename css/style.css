@@ -5,3 +5,22 @@ height: 166px;
 left: 138px;
 top: 296px;
 }
+
+.lorem-ipsum{
+    position: absolute;
+width: 373px;
+height: 112px;
+left: 138px;
+top: 494px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.06em;
+
+color: #0A1760;
+
+
+}
