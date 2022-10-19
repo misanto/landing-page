@@ -16,6 +16,25 @@ color: #000000;
 border: 0.5px solid #3A59FF;
 }
 
+.pawclub{
+    position: absolute;
+width: 178px;
+height: 28px;
+left: 65px;
+top: 45px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.3em;
+
+color: #000000;
+
+
+}
+
 .lorem-ipsum{
     position: absolute;
 width: 373px;
