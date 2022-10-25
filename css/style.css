@@ -1,5 +1,7 @@
 .paw{
-    position: absolute;
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
 width: 265px;
 height: 166px;
 left: 138px;
@@ -18,9 +20,9 @@ border: 0.5px solid #3A59FF;
 
 .pawclub{
     display: flex;
-flex-direction: row;
+flex-direction: column;
 align-items: flex-start;
-    position: relative;
+
 width: 178px;
 height: 28px;
 left: 65px;
@@ -40,9 +42,8 @@ color: #000000;
 
 .lorem-ipsum{
     display: flex;
-flex-direction: row;
+flex-direction: column;
 align-items: flex-start;
-    position: absolute;
 width: 373px;
 height: 112px;
 left: 138px;
