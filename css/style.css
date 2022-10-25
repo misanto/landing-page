@@ -84,7 +84,7 @@ border-radius: 40px;
 
 
 .figure{
-    position: relative;
+    position: absolute;
     display: flex;
     justify-content: flex-start;
 width: 330px;
