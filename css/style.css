@@ -20,7 +20,7 @@ border: 0.5px solid #3A59FF;
     display: flex;
 flex-direction: row;
 align-items: flex-start;
-    position: absolute;
+    
 width: 178px;
 height: 28px;
 left: 65px;
