@@ -1,6 +1,6 @@
 .paw{
     display: flex;
-flex-direction: column;
+flex-direction: center;
 align-items: flex-start;
 width: 265px;
 height: 166px;
