@@ -36,6 +36,9 @@ color: #000000;
 }
 
 .lorem-ipsum{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
     position: absolute;
 width: 373px;
 height: 112px;
