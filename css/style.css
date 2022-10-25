@@ -13,7 +13,7 @@
 }
 
 h1{
-    
+
     justify-content: left;
 width: 265px;
 height: 166px;
@@ -48,9 +48,7 @@ color: #000000;
 }
 
 p{
-    display: flex;
-flex-direction: column;
-align-items: flex-start;
+    justify-content: left;
 width: 373px;
 height: 112px;
 left: 138px;
