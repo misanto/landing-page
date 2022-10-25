@@ -3,15 +3,20 @@
     flex-wrap: wrap;
 }
 
-.paw{
+.flex{
     display: flex;
-flex-direction: center;
-align-items: flex-start;
+    flex-direction: row;
+}
+
+.flex-center{
+    justify-content: left;
+}
+
+h1{
 width: 265px;
 height: 166px;
 left: 138px;
 top: 296px;
-position: absolute;
 font-family: 'Rammetto One';
 font-style: normal;
 font-weight: 400;
@@ -40,7 +45,7 @@ color: #000000;
 
 }
 
-.lorem-ipsum{
+p{
     display: flex;
 flex-direction: column;
 align-items: flex-start;
@@ -60,41 +65,4 @@ color: #0A1760;
 
 
 }
-
-.button{
-    box-sizing: border-box;
-
-/* Auto layout */
-display: flex;
-flex-direction: row;
-align-items: flex-start;
-padding: 24px 57px 24px 40px;
-gap: 10px;
-
-position: absolute;
-left: 9.58%;
-right: 75.76%;
-top: 64.94%;
-bottom: 28.61%;
-
-border: 1px solid #000000;
-border-radius: 40px;
-}
-
-
-
-.figure{
-    position: ;
-    display: flex;
-    justify-content: flex-start;
-width: 330px;
-height: 30px;
-left: 981px;
-top: 38px;
-border: 0.5px solid #000000;
-border-radius: 20px;
-
-}
-
-
 
