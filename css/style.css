@@ -76,9 +76,11 @@ border-radius: 40px;
 
 
 
-.rectangle{
+.figure{
     box-sizing: border-box;
-    flex-direction: row, row-reverse, column, column-reverse;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
 width: 330px;
 height: 30px;
 left: 981px;
