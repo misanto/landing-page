@@ -1,7 +1,6 @@
-.paw{
+.flex{
     display: flex;
-flex-direction: column;
-align-items: flex-start;
+flex-direction: row;
 width: 265px;
 height: 166px;
 left: 138px;
@@ -18,37 +17,16 @@ color: #000000;
 border: 0.5px solid #3A59FF;
 }
 
-.pawclub{
-    display: flex;
-flex-direction: column;
-align-items: flex-start;
-
-width: 178px;
-height: 28px;
-left: 65px;
-top: 45px;
-position: absolute;
-font-family: 'Raleway';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 28px;
-letter-spacing: 0.3em;
-
-color: #000000;
-
+.flex-center{
+  justify-content: left;
 
 }
 
 .lorem-ipsum{
-    display: flex;
-flex-direction: column;
-align-items: flex-start;
 width: 373px;
 height: 112px;
 left: 138px;
 top: 494px;
-position: absolute;
 font-family: 'Raleway';
 font-style: normal;
 font-weight: 200;
