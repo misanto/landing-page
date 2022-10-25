@@ -1,5 +1,8 @@
 .paw{
-    position: absolute;
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+   
 width: 265px;
 height: 166px;
 left: 138px;
