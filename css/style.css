@@ -1,7 +1,6 @@
 .paw{
     display: flex;
 flex-direction: row;
-align-items: flex-start;
    
 width: 265px;
 height: 166px;
@@ -22,7 +21,6 @@ border: 0.5px solid #3A59FF;
 .pawclub{
     display: flex;
 flex-direction: row;
-align-items: flex-start;
     
 width: 178px;
 height: 28px;
@@ -44,7 +42,6 @@ color: #000000;
 .lorem-ipsum{
     display: flex;
 flex-direction: row;
-align-items: flex-start;
     
 width: 373px;
 height: 112px;
@@ -60,7 +57,6 @@ letter-spacing: 0.06em;
 
 color: #0A1760;
 
-
 }
 
 .button{
@@ -69,7 +65,6 @@ color: #0A1760;
 /* Auto layout */
 display: flex;
 flex-direction: row;
-align-items: flex-start;
 padding: 24px 57px 24px 40px;
 gap: 10px;
 
