@@ -78,7 +78,7 @@ border-radius: 40px;
 
 .figure{
     box-sizing: border-box;
-    flex-direction: row  row-reverse  column  column-reverse;
+    flex-direction: row, row-reverse, column, column-reverse;
 width: 330px;
 height: 30px;
 left: 981px;
