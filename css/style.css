@@ -6,7 +6,7 @@ width: 265px;
 height: 166px;
 left: 138px;
 top: 296px;
-
+position: absolute;
 font-family: 'Rammetto One';
 font-style: normal;
 font-weight: 400;
@@ -27,7 +27,7 @@ width: 178px;
 height: 28px;
 left: 65px;
 top: 45px;
-
+position: absolute;
 font-family: 'Raleway';
 font-style: normal;
 font-weight: 400;
@@ -48,7 +48,7 @@ width: 373px;
 height: 112px;
 left: 138px;
 top: 494px;
-
+position: relative;
 font-family: 'Raleway';
 font-style: normal;
 font-weight: 200;
