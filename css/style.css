@@ -17,7 +17,7 @@ a {
     width: 1440px;
     height: 1024px;
     
-    background: radial-gradient(50% 50% at 71.11% 50%, #E86189 100%) 
+    background-color: rgb(255, 122, 173);
 }
 
 .flex {
