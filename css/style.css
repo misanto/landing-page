@@ -83,11 +83,13 @@ color: #000000;
 }
 
 .body-right {
-    width: 750px;
-    height: 974px;
-    background-image: url('../assets/imgs/body.png');
-    background-size: cover;
-    background-position: top center;
+    width: 934px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: #CDE1E7;
+border: 1px solid #A2CAC8;
 }
 
 .body-left .text {
