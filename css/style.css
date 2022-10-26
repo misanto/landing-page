@@ -148,8 +148,25 @@ color: #0A1760;
     border-radius: 40px;
 }
 
-.btn-arrow:hover {
-    background-color: rgba(255, 255, 255, 0.2);
+.boton{
+    width: 129px;
+height: 18px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 18px;
+
+/* identical to box height, or 82% */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
 }
 
 .social-net {
