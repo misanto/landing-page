@@ -47,10 +47,21 @@ header>:nth-child(2) {
 }
 
 .logo {
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 28px;
-    letter-spacing: 0.3em;
+    width: 178px;
+height: 28px;
+left: 65px;
+top: 45px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.3em;
+
+color: #000000;
+
+
 }
 
 .menu {
@@ -85,25 +96,56 @@ header>:nth-child(2) {
 }
 
 .body-left h1 {
-    font-size: 70px;
-    letter-spacing: 0.11em;
+    width: 254px;
+    height: 170px;
+    left: 138px;
+    top: 296px;
+    
+    font-family: 'Rammetto One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 105.9%;
+    
+    /* or 85px */
+    
+    color: #FFFFFF;
+    
+    border: 0.5px solid #3A59FF;
 }
 
 .body-left p {
-    font-size: 24px;
-    letter-spacing: 0.06em;
-    font-weight: 200;
+    width: 373px;
+height: 112px;
+left: 138px;
+top: 494px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.06em;
+
+color: #0A1760;
+
+
 }
 
 .btn-arrow {
-    background-image: url('../assets/icons/arrow.png');
-    width: 60px;
-    height: 60px;
-    background-position: center;
-    border-radius: 60px;
-    background-color: transparent;
-    background-repeat: no-repeat;
-    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 24px 57px 24px 40px;
+    gap: 10px;
+    
+    left: 9.58%;
+    right: 75.76%;
+    top: 64.94%;
+    bottom: 28.61%;
+    
+    border: 1px solid #000000;
+    border-radius: 40px;
 }
 
 .btn-arrow:hover {
