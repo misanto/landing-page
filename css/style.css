@@ -65,7 +65,7 @@ color: #000000;
 }
 
 .menu {
-    text-align: center;
+    text-align: left;
 }
 
 .menu a {
@@ -238,4 +238,15 @@ i {
 
 i:hover {
     transform: scale(1.3);
+}
+
+.figure{
+    box-sizing: border-box;
+width: 330px;
+height: 30px;
+left: 981px;
+top: 38px;
+
+border: 0.5px solid #FFFFFF;
+border-radius: 20px;
 }
