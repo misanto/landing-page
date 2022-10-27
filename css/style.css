@@ -64,18 +64,6 @@ color: #000000;
 
 }
 
-.menu {
-    text-align: left;
-}
-
-.menu a {
-    padding: 0 15px;
-}
-
-.menu a.active,
-.menu a:hover {
-    color: #42FF00;
-}
 
 .body-left {
     width: 934px;
